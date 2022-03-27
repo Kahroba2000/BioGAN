@@ -2,12 +2,9 @@
 
 <br><br><br>
 -->
-# CycleGAN
+# BioGAN
 
-Tensorflow implementation for learning an image-to-image translation **without** input-output pairs.
-The method is proposed by [Jun-Yan Zhu](https://people.eecs.berkeley.edu/~junyanz/) in 
-[Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networkssee](https://arxiv.org/pdf/1703.10593.pdf). 
-For example in paper:
+A GAN-based image to image translation model for cell biology images. This model is developed on top of cycle GAN model ().
 
 <img src="imgs/teaser.jpg" width="1000px"/>
 
