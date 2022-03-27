@@ -1,0 +1,2 @@
+train: python main.py --dataset_dir=lab2field --print_freq 10 --epoch 100
+Test: python main.py --dataset_dir=lab2field --phase=test --which_direction=AtoB
