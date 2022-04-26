@@ -23,6 +23,13 @@ For getting started, install the required packages as listed below:
 - pillow 3.3.0
 
 
+For **training** your own model, follows the instruction below:
+1. Put your lab-taken images into *** and the field-taken images into *** folders.
+2. Choose one of the field-taken images as refference and put in *** folder.
+3. Run the the code bellow for training the model.
+    
+
+
 ## Reference
 - The tensorflow implementation of CycleGAN, https://github.com/nanfengpo/CycleGAN-tensorflow-1?msclkid=d1fd27c8adbc11ec9a2f9153bce627cd
 - The tensorflow implementation of pix2pix, https://github.com/yenchenlin/pix2pix-tensorflow
